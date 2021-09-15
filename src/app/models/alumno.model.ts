@@ -3,5 +3,6 @@ export class Alumno {
     nombre?:string;
     dni?:string;
     correo?:string;
-    fechaNacimiento?:Date
+    fechaNacimiento?:Date;
+    direccion?:string;
 }
